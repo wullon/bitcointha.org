@@ -1,6 +1,6 @@
 ---
 layout: default
-permalin: /
+permalink: /
 ---
 
 Test
